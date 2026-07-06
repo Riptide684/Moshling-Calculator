@@ -1,0 +1,304 @@
+Bodge:Any,Pepper;Any,Dragon;Any,Love
+Scrumpy:Blue,Orchid;Any,Star;Any,Love
+Misty:Yellow,Pepper;Purple,Dragon;Any,Apple
+Zeke:Purple,Frozen;Blue,Orchid;Any,Dragon
+Bruce:Yellow,Frozen;Any,Pepper;Any,Orchid
+Ping:Purple,Star;Pink,Love;Any,Apple
+Melena:Blue,Daisy;Pink,Pepper;Blue,Star
+Freddy:Blue,Magic;Orange,Magic;Any,Orchid
+Morgan:Green,Orchid;Purple,Frozen;Any,Daisy
+Humphrey:Any,Daisy;Any,Pepper;Any,Magic
+Jeepers:Blue,Apple;Red,Daisy;Any,Love
+ShiShi:Red,Dragon;Yellow,Pepper;Black,Daisy
+Burnie:Red,Apple;Red,Apple;Blue,Daisy
+DJ Quack:Any,Dragon;Any,Orchid;Any,Star
+Prof Purplex:Pink,Love;Any,Dragon;Yellow,Orchid
+Peppy:Yellow,Magic;Red,Orchid;Any,Orchid
+Tiki:Pink,Love;Red,Love;Any,Star
+Pinestein:Purple,Love;Purple,Magic;Yellow,Magic
+Pizmo:Blue,Magic;Any,Orchid;Any,Star
+Travis:Blue,Dragon;Any,Pepper;Any,Magic
+Sox:Orange,Dragon;Green,Frozen;Any,Dragon
+Sketchington:Any,Frozen;Pink,Orchid;Pink,Magic
+Sharpie:Any,Magic;Any,Apple;Orange,Pepper
+Bubbly:Any,Daisy;Any,Daisy;Any,Daisy
+Dinky:Blue,Apple;Blue,Apple;Blue,Frozen
+Chirpy:Pink,Orchid;Pink,Orchid;Any,Daisy
+Snookums:Any,Star;Any,Star;Any,Star
+Pooky:Purple,Magic;Any,Magic;Any,Orchid
+Doris:Black,Orchid;Any,Orchid;Any,Orchid
+Gurgle:Yellow,Magic;Purple,Love;Red,Dragon
+Edison:Yellow,Star;Yellow,Magic;Yellow,Frozen
+Holmes:Purple,Apple;Purple,Magic;Purple,Frozen
+Casey:Green,Frozen;Green,Dragon;Any,Magic
+Fluttercup:Purple,Apple;Black,Daisy;Any,Frozen
+Plumpty:Pink,Love;Any,Love;Any,Love
+Drake:Yellow,Star;Red,Love;Black,Frozen
+Moolena:Yellow,Daisy;Yellow,Apple;Any,Magic
+Gilbert:Green,Pepper;Any,Pepper;Any,Pepper
+Peep:Any,Love;Any,Dragon;Any,Magic
+Parsnips:Orange,Daisy;Any,Magic;Any,Dragon
+Snowflake:Any,Magic;Any,Star;Any,Dragon
+Sparkle:Pink,Pepper;Any,Pepper;Any,Frozen
+Dazzle:Yellow,Star;Red,Frozen;Any,Frozen
+Stanley:Any,Love;Any,Love;Any,Dragon
+Blurp:Pink,Love;Any,Love;Any,Orchid
+Cali:Yellow,Love;Blue,Love;Any,Magic
+Fumble:Yellow,Love;Yellow,Magic;Any,Star
+Dipsy:Yellow,Orchid;Any,Orchid;Any,Love
+Honey:Blue,Apple;Yellow,Love;Any,Magic
+Flumpy:Black,Orchid;Red,Magic;Any,Star
+Iggy:Purple,Daisy;Purple,Daisy;Black,Orchid
+Hansel:Black,Magic;Black,Orchid;Any,Dragon
+Coolio:Black,Love;Pink,Apple;Any,Star
+Cutie Pie:Blue,Dragon;Pink,Star;Purple,Daisy
+Oddie:Yellow,Star;Purple,Star;Black,Star
+Poppy:Blue,Daisy;Purple,Pepper;Blue,Daisy
+Darwin:Pink,Magic;Pink,Magic;Any,Love
+Otto:Blue,Pepper;Blue,Pepper;Any,Daisy
+Pipsi:Red,Apple;Red,Daisy;Red,Star
+Eugene:Blue,Pepper;Any,Pepper;Any,Apple
+Splitz:Any,Love;Any,Love;Any,Apple
+Squelch:Any,Apple;Any,Daisy;Any,Pepper
+Quincy:Red,Apple;Red,Daisy;Any,Star
+Fopkin:Black,Magic;Blue,Apple;Any,Apple
+Snuggy:Purple,Dragon;Any,Dragon;Any,Love
+Threddie:Any,Pepper;Any,Star;Any,Orchid
+Astro:Orange,Pepper;Orange,Magic;Orange,Daisy
+Bao:Blue,Orchid;Yellow,Orchid;Any,Love
+Roy:Orange,Magic;Orange,Dragon;Orange,Dragon
+Gumdrop:Yellow,Daisy;Blue,Orchid;Red,Daisy
+Harley:Purple,Orchid;Black,Orchid;Any,Frozen
+Nancy:Blue,Dragon;Any,Star;Any,Apple
+Benedict:Any,Daisy;Any,Apple;Any,Apple
+Chio:Yellow,Orchid;Red,Frozen;Any,Magic
+Dudley:Green,Dragon;Purple,Magic;Any,Dragon
+Funguy:Red,Dragon;Blue,Star;Yellow,Dragon
+Fusty:Red,Orchid;Black,Pepper;Blue,Love
+Jen:Any,Apple;Any,Apple;Any,Orchid
+Moxy:Any,Orchid;Any,Frozen;Red,Frozen
+Gumpty:Any,Daisy;Any,Daisy;Any,Star
+Vinnie:Yellow,Dragon;Any,Dragon;Any,Apple
+Hissy:Purple,Orchid;Black,Apple;Any,Pepper
+Little Bad Bill:Any,Star;Any,Star;Any,Orchid
+Crazy Bill:Red,Daisy;Yellow,Daisy;Any,Pepper
+Big Chief Bill:Purple,Pepper;Black,Pepper;Purple,Magic
+Twistmas Hoodoo:Red,Magic;Red,Frozen;Green,Orchid
+Obi Banoffi:Pink,Daisy;Any,Daisy;Any,Frozen
+Limbo Hoodoo:Orange,Dragon;Orange,Dragon;Any,Star
+Kook:Pink,Pepper;Green,Magic;Any,Dragon
+Princess Pearl:Pink,Love;Black,Orchid;Green,Pepper
+Prof Rachel Lime:Purple,Orchid;Purple,Dragon;Green,Apple
+Luver:Red,Magic;Pink,Magic;Any,Frozen
+Purdy:Any,Dragon;Any,Dragon;Any,Orchid
+Gingersnap:Any,Pepper;Any,Magic;Any,Love
+Lady Meowford:Blue,Orchid;Any,Orchid;Any,Star
+Waldo:Pink,Love;Red,Star;Any,Dragon
+Troy:Orange,Pepper;Orange,Magic;Any,Frozen
+King Brian:Orange,Frozen;Yellow,Orchid;Yellow,Frozen
+Gideon:Pink,Frozen;Blue,Orchid;Any,Magic
+Ophelia:Yellow,Frozen;Any,Love;Any,Star
+Matilda:Blue,Orchid;Green,Love;Any,Love
+OReally:Yellow,Dragon;Blue,Dragon;Any,Star
+Kat:Orange,Star;Any,Pepper;Orange,Daisy
+Mrs Meowford:Any,Dragon;Any,Love;Green,Star
+Sophy:Any,Magic;Any,Magic;Any,Star
+Winnie:Any,Pepper;Any,Pepper;Any,Star
+Jackson:Any,Daisy;Any,Magic;Any,Magic
+Fitch:Red,Orchid;Purple,Daisy;Any,Star
+Marty:Blue,Dragon;Purple,Dragon;Blue,Dragon
+Blinki:Blue,Apple;Blue,Apple;Blue,Love
+Toasty:Any,Pepper;Any,Magic;Any,Apple
+Yolka:Any,Love;Any,Dragon;Any,Dragon
+Suey:Pink,Pepper;Yellow,Pepper;Purple,Love
+Hot Wings:Black,Dragon;Any,Orchid;Any,Orchid
+Mumbo:Any,Daisy;Any,Orchid;Green,Orchid
+Venom:Black,Dragon;Pink,Dragon;Purple,Frozen
+Toots:Black,Magic;Any,Magic;Any,Daisy
+Long Beard:Red,Pepper;Red,Pepper;Any,Dragon
+Jessie:Pink,Dragon;Yellow,Dragon;Red,Pepper
+Shoney:Red,Pepper;Black,Orchid;Red,Orchid
+Topsy Turvy:Any,Pepper;Any,Pepper;Any,Daisy
+Mitzi:Any,Frozen;Any,Dragon;Any,Love
+Doyle:Blue,Star;Orange,Star;Any,Pepper
+Chop Chop:Any,Dragon;Any,Dragon;Any,Dragon
+Sooki Yaki:Red,Magic;Any,Magic;Any,Pepper
+Shelby:Black,Dragon;Any,Dragon;Any,Magic
+General Fuzuki:Red,Pepper;Yellow,Love;Purple,Star
+Betty:Black,Star;Any,Pepper;Any,Love
+Shelly:Any,Magic;Any,Magic;Any,Magic
+Nutmeg:Yellow,Star;Any,Pepper;Any,Star
+Shrewman:Orange,Pepper;Any,Star;Any,Daisy
+Bonkers:Red,Orchid;Purple,Daisy;Black,Daisy
+Myrtle:Green,Magic;Any,Love;Any,Love
+Herman:Orange,Orchid;Any,Apple;Any,Magic
+Clarence:Yellow,Daisy;Blue,Magic;Black,Pepper
+Harmy:Black,Orchid;Black,Orchid;Red,Dragon
+Hellie:Pink,Star;Pink,Love;Any,Love
+Kaboom:Yellow,Apple;Red,Love;Any,Pepper
+Angel:Any,Pepper;Any,Pepper;Any,Magic
+Priscilla:Yellow,Apple;Any,Orchid;Any,Orchid
+Mr Snoodle:Yellow,Dragon;Purple,Pepper;Any,Pepper
+Gigi:Blue,Pepper;Yellow,Pepper;Red,Orchid
+Blossom:Any,Dragon;Any,Magic;Any,Daisy
+Juniper:Orange,Dragon;Blue,Star;Pink,Daisy
+Oopsey:Pink,Pepper;Any,Star;Any,Daisy
+Prickles:Red,Pepper;Red,Apple;Any,Daisy
+Fifi:Any,Pepper;Any,Dragon;Any,Magic
+McNulty:Purple,Star;Any,Apple;Any,Apple
+White Fang:Red,Orchid;Red,Magic;Any,Daisy
+Scamp:Pink,Dragon;Black,Apple;Blue,Orchid
+Wrangle:Red,Daisy;Red,Magic;Any,Magic
+Woodsworth:Green,Orchid;Blue,Orchid;Any,Frozen
+Ziggy:Any,Dragon;Any,Dragon;Black,Daisy
+Hoolio:Black,Apple;Any,Pepper;Any,Dragon
+Prince Drago:Blue,Dragon;Red,Apple;Green,Dragon
+Shimmy:Any,Magic;Any,Love;Any,Daisy
+Linton:Purple,Daisy;Purple,Daisy;Any,Daisy
+Glob:Any,Orchid;Any,Orchid;Any,Orchid
+Jibbly:Black,Daisy;Black,Daisy;Purple,Magic
+Randall:Red,Orchid;Red,Orchid;Any,Orchid
+Marsha:Pink,Apple;Pink,Apple;Blue,Love
+Calvin:Red,Orchid;Black,Magic;Black,Star
+Blue Jeepers:Blue,Daisy;Blue,Love;Blue,Dragon
+Fitter:Any,Orchid;Any,Orchid;Any,Apple
+Sleepypaws:Any,Frozen;Any,Orchid;Any,Star
+Feathersnooze:Any,Orchid;Any,Orchid;Any,Magic
+Nodkins:Any,Orchid;Any,Orchid;Any,Pepper
+Yawnsy:Any,Orchid;Any,Frozen;Any,Love
+Gracie:Any,Orchid;Any,Love;Any,Apple
+Major Moony:Pink,Apple;Pink,Frozen;Any,Orchid
+Tessa:Yellow,Orchid;Any,Apple;Any,Apple
+Jix:Purple,Apple;Any,Love;Any,Frozen
+Squib:Any,Star;Any,Star;Any,Magic
+Warwick:Purple,Love;Orange,Pepper;Any,Orchid
+Oliver:Purple,Apple;Blue,Orchid;Any,Daisy
+Sweeney Blob:Any,Pepper;Any,Orchid;Any,Dragon
+Bentley:Black,Star;Black,Star;Black,Orchid
+Squidge:Any,Pepper;Any,Dragon;Any,Star
+Kissy:Purple,Star;Any,Star;Any,Magic
+Ecto:Red,Love;Black,Love;Any,Pepper
+Big Bad Bill:Black,Star;Blue,Star;Yellow,Love
+Dribbles:Any,Daisy;Any,Apple;Any,Dragon
+Lummox:Yellow,Orchid;Any,Magic;Any,Love
+Rooby:Blue,Magic;Blue,Magic;Any,Star
+Amber:Red,Orchid;Orange,Magic;Any,Apple
+Bart:Black,Orchid;Purple,Daisy;Any,Pepper
+Cheri:Pink,Love;Purple,Star;Pink,Apple
+Frosty:Orange,Apple;Black,Magic;Orange,Apple
+Flora:Pink,Frozen;Any,Orchid;Any,Star
+Rebus:Purple,Frozen;Black,Frozen;Red,Star
+Micro Dave:Blue,Pepper;Blue,Pepper;Pink,Star
+Cosmo:Black,Pepper;Black,Pepper;Black,Pepper
+Scorchy:Red,Apple;Any,Apple;Any,Dragon
+Clickr:Green,Daisy;Orange,Apple;Green,Love
+Aerial:Purple,Daisy;Purple,Frozen;Any,Daisy
+Tammy:Any,Apple;Yellow,Orchid;Pink,Frozen
+Sven:Any,Pepper;Any,Apple;Blue,Frozen
+Carter:Red,Pepper;Yellow,Star;Blue,Apple
+Kazzi:Any,Star;Any,Star;Any,Dragon
+Mishmash:Any,Star;Any,Star;Any,Love
+King Toot:Any,Love;Any,Love;Any,Love
+HipHop:Black,Star;Any,Love;Any,Daisy
+Oompah:Yellow,Star;Yellow,Daisy;Any,Daisy
+Busling:Yellow,Dragon;Yellow,Star;Yellow,Magic
+Lips:Blue,Magic;Any,Orchid;Any,Apple
+Shmoops:Any,Orchid;Any,Magic;Any,Love
+Zonkers:Blue,Star;Any,Pepper;Any,Magic
+Gerald:Any,Apple;Orange,Dragon;Red,Frozen
+Ivy:Any,Apple;Any,Star;Any,Star
+Shed:Red,Dragon;Any,Orchid;Any,Love
+Rocky:Pink,Daisy;Any,Pepper;Any,Love
+Liberty:Red,Love;Black,Love;Any,Love
+Mini Ben:Black,Apple;Black,Apple;Black,Apple
+Cleo:Pink,Daisy;Blue,Daisy;Yellow,Apple
+Cletus:Any,Magic;Any,Magic;Any,Apple
+Rosco:Any,Dragon;Any,Orchid;Any,Orchid
+Clump:Any,Daisy;Any,Daisy;Any,Apple
+Bonnie:Orange,Star;Yellow,Pepper;Red,Star
+Oiwa:Red,Frozen;Black,Orchid;Any,Orchid
+Lurgee:Purple,Daisy;Purple,Orchid;Blue,Dragon
+Jarvis:Pink,Love;Pink,Dragon;Pink,Frozen
+Adagi:Blue,Orchid;Yellow,Orchid;Blue,Frozen
+T Oddie:Red,Star;Green,Star;Red,Star
+T Rocky:Red,Daisy;Green,Pepper;Red,Love
+T Iggy:Red,Orchid;Green,Daisy;Red,Daisy
+T Cherry Bomb:Red,Orchid;Green,Daisy;Red,Star
+T Jeepers:Green,Frozen;Green,Frozen;Any,Orchid
+T Mr Snoodle:Orange,Frozen;Black,Frozen;Any,Orchid
+T Gurgle:Orange,Frozen;Blue,Frozen;Orange,Pepper
+T Angel:Any,Frozen;Any,Frozen;Any,Magic
+W Chop Chop:Blue,Dragon;Blue,Dragon;Blue,Dragon
+W Hocus:Blue,Pepper;Blue,Apple;Blue,Apple
+W Ecto:Blue,Love;Blue,Love;Blue,Pepper
+W Lady Meowford:Blue,Orchid;Blue,Star;Blue,Frozen
+C Splitz:Blue,Love;Any,Frozen;Blue,Apple
+C Eugene:Blue,Pepper;Any,Frozen;Any,Frozen
+C Wurley:Green,Orchid;Green,Magic;Green,Orchid
+C Tingaling:Green,Dragon;Green,Star;Any,Frozen
+S Roxy:Green,Apple;Green,Apple;Green,Star
+S Gabby:Pink,Magic;Pink,Magic;Pink,Magic
+S Dipsy:Orange,Orchid;Orange,Orchid;Orange,Love
+H Big Bad Bill:Purple,Love;Purple,Star;Purple,Star
+H Jeepers:Black,Daisy;Black,Apple;Black,Love
+H Scamp:Black,Apple;Black,Orchid;Black,Dragon
+H Squidge:Purple,Dragon;Purple,Star;Purple,Pepper
+H Snookums:Purple,Pepper;Orange,Star;Red,Frozen
+H Cleo:Red,Daisy;Blue,Frozen;Purple,Frozen
+H Nipper:Purple,Magic;Orange,Star;Black,Frozen
+H Mini Ben:Orange,Apple;Yellow,Frozen;Purple,Apple
+G Dustbin Beaver:Red,Daisy;Pink,Apple;Black,Dragon
+G Baby Rox:Purple,Orchid;Purple,Frozen;Purple,Apple
+G Roxy:Orange,Daisy;Green,Love;Red,Apple
+G Zack Binspin:Purple,Love;Blue,Apple;Yellow,Dragon
+F Oddie:Blue,Star;Yellow,Star;Blue,Star
+F Coolio:Blue,Love;Yellow,Apple;Blue,Star
+F Hansel:Blue,Magic;Yellow,Orchid;Blue,Dragon
+F Fizzy:Yellow,Pepper;Blue,Pepper;Blue,Frozen
+P Mrs Snoodle:Orange,Love;Pink,Star;Red,Pepper
+P Mr Snoodle:Green,Pepper;Blue,Dragon;Purple,Pepper
+P Bingo:Pink,Apple;Blue,Dragon;Blue,Frozen
+P Yoyo:Blue,Apple;Black,Magic;Pink,Frozen
+P Splatter:Pink,Apple;Blue,Pepper;Yellow,Frozen
+P Plumpty:Yellow,Love;Purple,Love;Black,Love
+P Ecto:Black,Love;Black,Pepper;Purple,Love
+P Boomer:Blue,Daisy;Green,Love;Yellow,Love
+V Tiamo:Pink,Love;Any,Pepper;Any,Magic
+V Liberty:Red,Love;Pink,Frozen;Any,Orchid
+V Gingersnap:Black,Love;Any,Love;Any,Frozen
+V Pipsi:Purple,Star;Red,Frozen;Purple,Star
+V Astro:Pink,Pepper;Pink,Magic;Pink,Daisy
+V Fifi:Pink,Pepper;Red,Magic;Pink,Daisy
+V Holmes:Pink,Magic;Pink,Frozen;Pink,Apple
+V Fluttercup:Pink,Frozen;Pink,Daisy;Pink,Apple
+M Blingo:Blue,Apple;Purple,Dragon;Blue,Apple
+M Cutie Pie:Purple,Daisy;Blue,Dragon;Purple,Star
+M White Fang:Purple,Orchid;Blue,Magic;Purple,Daisy
+M Flumpy:Blue,Magic;Purple,Orchid;Blue,Star
+C Roxy:Purple,Apple;Yellow,Apple;Purple,Star
+C DJ Quack:Purple,Dragon;Yellow,Star;Purple,Orchid
+C Woolly:Yellow,Love;Blue,Frozen;Purple,Frozen
+C Peppy:Purple,Magic;Yellow,Orchid;Purple,Orchid
+C Pocito:Yellow,Star;Black,Frozen;Orange,Frozen
+C Scarlet:Purple,Love;Yellow,Star;Purple,Love
+C Mr Snoodle:Purple,Pepper;Yellow,Dragon;Purple,Pepper
+E Honey:Yellow,Love;Green,Apple;Green,Frozen
+E Benedict:Green,Daisy;Yellow,Apple;Green,Apple
+E Yolka:Green,Dragon;Yellow,Dragon;Green,Love
+E Pooky:Green,Magic;Yellow,Orchid;Green,Magic
+S Hansel:Orange,Magic;Orange,Star;Orange,Frozen
+S Blurp:Orange,Love;Orange,Orchid;Orange,Frozen
+S Busling:Orange,Dragon;Orange,Star;Orange,Frozen
+S Bobbi:Orange,Love;Orange,Daisy;Orange,Frozen
+G Big Bad Bill:Red,Love;Red,Star;Red,Star
+G Fifi:Red,Pepper;Red,Dragon;Red,Magic
+G Hansel:Red,Magic;Red,Orchid;Red,Dragon
+G Oddie:Red,Star;Red,Star;Red,Star
+Ponco:Any,Pepper;Any,Apple;Red,Frozen
+Scrambles:Any,Apple;Any,Love;Any,Frozen
+Laster:Any,Love;Any,Daisy;Black,Frozen
+Rattles:Any,Pepper;Black,Frozen;Purple,Frozen
+S Nodkins:Pink,Orchid;Pink,Orchid;Yellow,Pepper
+S Juniper:Pink,Star;Pink,Dragon;Pink,Daisy
+S Penny:Pink,Pepper;Pink,Dragon;Pink,Magic
+S Blossom:Pink,Dragon;Yellow,Magic;Pink,Daisy
