@@ -113,7 +113,7 @@ Yolka:Any,Love;Any,Dragon;Any,Dragon
 Suey:Pink,Pepper;Yellow,Pepper;Purple,Love
 Hot Wings:Black,Dragon;Any,Orchid;Any,Orchid
 Mumbo:Any,Daisy;Any,Orchid;Green,Orchid
-Venom:Black,Dragon;Pink,Dragon;Purple,Frozen
+Vernon:Black,Dragon;Pink,Dragon;Purple,Frozen
 Toots:Black,Magic;Any,Magic;Any,Daisy
 Long Beard:Red,Pepper;Red,Pepper;Any,Dragon
 Jessie:Pink,Dragon;Yellow,Dragon;Red,Pepper
