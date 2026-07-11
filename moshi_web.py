@@ -67,7 +67,7 @@ def create_suggestions(plants):
         st.write("Not close to any moshling")
         st.stop()
 
-    columns = ["Moshling", "Expected iterations from empty garden", "Expected iterations from current garden", "Improvement"]
+    columns = ["Moshling", "Average from empty garden", "Average from current garden", "Improvement"]
     data = []
     for moshling in sugg_moshlings:
         sugg = suggestions[moshling]
