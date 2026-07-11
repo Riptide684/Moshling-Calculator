@@ -40,7 +40,7 @@ def calculate(moshling, plants):
     )
 
     st.write(f"Recipe is: {moshling_recipes[moshling]}")
-    st.write(action)
+    st.text(action)
     st.write(f"Expected iterations: {round(expectation, 3)}")
 
 
@@ -121,8 +121,13 @@ with st.form("calculator"):
 
     st.text_input("Moshling name", key="moshling")
 
-    run_button = st.form_submit_button("Run")
-    suggest_button = st.form_submit_button("Suggest")
+    left, col1, col2, right = st.columns([2, 1, 1, 2])
+
+    with col1:
+        run_button = st.form_submit_button("Run")
+
+    with col2:
+        suggest_button = st.form_submit_button("Suggest")
 
 
 if run_button or suggest_button or st.session_state.run_after_correction:
