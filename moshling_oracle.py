@@ -1,7 +1,6 @@
 from itertools import *
 import numpy as np
-import streamlit as st
-import difflib
+import pickle
 
 
 PLANT_TYPES = ("Love", "Pepper", "Orchid", "Apple", "Magic", "Frozen", "Star", "Dragon", "Daisy")
@@ -290,8 +289,7 @@ def calculate_optimal_policy(moshling, verbose=False):
     return policy
 
 
-def query_moshling(moshling, plants=[]):
-    # firstly some global variable setup
+def set_globals(moshling):
     recipe = moshling_recipes[moshling]
     global res_plant_types, res_plants, other_modifiers
     res_plant_types = recipe.plant_types
@@ -308,12 +306,49 @@ def query_moshling(moshling, plants=[]):
 
         other_modifiers[pt] = 8 - len(other_hits)
 
+
+def load_policy(moshling):
+    with open('policies.pkl', 'rb') as f:
+        loaded_actions = pickle.load(f)[moshling]
+
+    policy = Policy(moshling)
+    policy.policy_actions = loaded_actions
+    policy.form_matrix()
+    policy.evaluate()
+    return policy
+
+
+def load_all_policies():
+    policies = {}
+
+    with open('policies.pkl', 'rb') as f:
+        loaded_actions = pickle.load(f)
+
+    for moshling in moshling_list:
+        set_globals(moshling)
+        policy = Policy(moshling)
+        policy.policy_actions = loaded_actions[moshling]
+        policy.form_matrix()
+        policy.evaluate()
+        policies[moshling] = policy
+
+    return policies
+
+
+def query_moshling(moshling, plants=[], load=False, policy=None):
+    set_globals(moshling)
+    recipe = moshling_recipes[moshling]
+
     # firstly have to dig irrelevant plants
     garden = plants_to_garden(plants)
     extra_digs = tuple(plant for plant in garden if plant not in res_plants)
     garden = tuple(sorted(plant if plant in res_plants else EMPTY for plant in garden))
 
-    policy = calculate_optimal_policy(moshling)
+    if not policy:
+        if load:
+            policy = load_policy(moshling)
+        else:
+            policy = calculate_optimal_policy(moshling)
 
     if recipe.match(garden):
         expectation = 0
@@ -328,56 +363,4 @@ def query_moshling(moshling, plants=[]):
     return str(action), expectation
 
 
-def autocorrect(moshling):
-    matches = difflib.get_close_matches(moshling, moshling_list, n=1, cutoff=0.6)
-    return matches[0] if matches else None
-
-
-if __name__ == "__main__":
-    import_recipes("moshling_recipes.txt")
-    
-    plants_chosen = []
-
-    for i in range(3):
-        col1, col2 = st.columns(2)
-
-        with col1:
-            plant_type = st.selectbox(
-                f"Plant {i + 1}",
-                ("Empty",) + PLANT_TYPES,
-                key=f"type_{i}",
-            )
-
-        with col2:
-            plant_colour = st.selectbox(
-                "Colour",
-                ("Empty",) + PLANT_COLOURS,
-                key=f"colour_{i}",
-            )
-
-        plants_chosen.append((plant_colour, plant_type))
-
-    moshling = st.text_input("Moshling name")
-
-    if st.button("Run"):
-        plants = []
-        for plant in plants_chosen:
-            if (plant[0] == "Empty") ^ (plant[1] == "Empty"):
-                st.text("Incomplete fields entered")
-                st.stop()
-
-            if plant[0] != "Empty" and plant[1] != "Empty":
-                plants.append(plant)
-
-        if moshling not in moshling_list:
-            closest_match = autocorrect(moshling)
-            if closest_match:
-                st.text("Moshling not in list, did you mean: " + closest_match + "?")
-            else:
-                st.text("Moshling not in list")
-            st.stop()
-        
-        action, expectation = query_moshling(moshling, plants)
-        st.text("Recipe is: " + str(moshling_recipes[moshling]))
-        st.text(action)
-        st.text("Expected iterations: " + str(round(expectation, 3)))
+import_recipes("moshling_recipes.txt")
