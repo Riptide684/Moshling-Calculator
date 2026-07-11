@@ -2,3 +2,4 @@
 moshling_expectations.txt
 moshi.py
 *.swp
+__pycache__/
